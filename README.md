@@ -1,4 +1,4 @@
-### Olá, meu nome é Rodrigo Takashi
+### Olá, meu nome é Rodrigo Takashi, estudante de Desenvolvimento Web Full Stack :)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R-Takashi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
