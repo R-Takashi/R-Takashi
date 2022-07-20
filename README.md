@@ -7,7 +7,7 @@
 
 - 🔭 Atualmente estudando na Trybe [Trybe](https://www.betrybe.com/)
 
-- 📫 Contato **rodrigo0takashi@gmail.com**
+- 📫 Email **rodrigo0takashi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
