@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Rodrigo Takashi Condo</h1>
-<h3 align="center">Estudante de Desenvolvimento Web Full Stack na Trybe :)
+<h3 align="center">Desenvolvedor Web Full Stack JR :)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r-takashi&label=Profile%20views&color=0e75b6&style=flat" alt="r-takashi" /> </p>
 
@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-- 🔭 Atualmente estudando na Trybe [Trybe](https://www.betrybe.com/)
+- 🔭 Aprimorando habilidades e buscando oportunidades para ingressar no mercado
 
 - 📫 Email **rodrigo0takashi@gmail.com**
 
